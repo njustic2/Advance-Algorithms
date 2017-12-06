@@ -1,4 +1,4 @@
-https://njustic2.github.io/Advance-Algorithms/
+https://github.com/njustic2/Advance-Algorithms/blob/master/AlgolAdvance.html
 
 This is an algorithm Websight.
 The websight starts by lunching a fucntion froma java script file called app.js

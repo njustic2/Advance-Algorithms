@@ -10,10 +10,10 @@ When that app is lunched, it uses HTML to give it its web look.
 There are three main functionality of the websight
 The tabs gives users a view of how the functionality works.
 
-Tab one is Greedy Schedule
-Tab two is AES Advance Encryption Standard
 Tab three is RSA Algorithm 
-Tab four is 01 Knapsack Algorithm
+Tab two is AES Advance Encryption Standard
+Tab one is Greedy Schedule
+Tab four is 01 Knapsack Algorithm - This has been deactivated.
 
 Once any of the tabs is clicked, users can enter inputs as required to get desired output.
 The same process is used for every other tab in the website.
